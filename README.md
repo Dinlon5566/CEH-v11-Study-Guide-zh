@@ -26,9 +26,11 @@
 # 索引
 
 * ✅ **以下模組翻譯完成：**
+
 * ⚠️ **以下模組尚未翻譯完成：**
-* ❌ **以下模組尚未進行翻譯：**
-1. [模組 01 - 道德駭客簡介 (Introduction to Ethical Hacking)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/1-Introduction.md)
+1. [模組 01 - 道德駭客簡介 (Introduction to Ethical Hacking)](https://github.com/Dinlon5566/CEH-v11-Study-Guide-zh/blob/main/modules/1-Introduction.md)
+
+* ❌ **以下模組尚未進行翻譯(連結至原文)：**
 2. [模組 02 - 足跡搜集和偵查 (Footprinting and Reconnaissance)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/2-Footprinting-and-Reconnaissance.md)
 3. [模組 03 - 掃描網路 (Scanning Networks)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/3-Scanning-Networks.md)
 4. [模組 04 - 列舉 (Enumeration)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/3-Scanning-Networks.md)
@@ -48,3 +50,6 @@
 18. [模組 18 - 駭客物聯網和運營技術 (Hacking IoT and OT Hacking)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/17-Hacking-Mobile-Platforms-and-IoT.md)
 19. [模組 19 - 雲端運算 (Cloud Computing)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/19-Cloud%20Computing.md)
 20. [模組 20 - 密碼學 (Cryptography)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/20-Cryptography.md)
+
+---
+* 若有翻譯不全或缺漏懇請指教。
