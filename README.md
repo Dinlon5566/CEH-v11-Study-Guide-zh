@@ -27,12 +27,13 @@
 
 * ✅ **以下模組翻譯完成：**
 1. [模組 01 - 道德駭客簡介 (Introduction to Ethical Hacking)](https://github.com/Dinlon5566/CEH-v11-Study-Guide-zh/blob/main/modules/1-Introduction.md)
-
-* ⚠️ **以下模組尚未翻譯完成：**
 2. [模組 02 - 足跡搜集和偵查 (Footprinting and Reconnaissance)](https://github.com/Dinlon5566/CEH-v11-Study-Guide-zh/blob/main/modules/2-Footprinting-and-Reconnaissance.md)
 
+* ⚠️ **以下模組尚未翻譯完成：**
+3. [模組 03 - 掃描網路 (Scanning Networks)](https://github.com/Dinlon5566/CEH-v11-Study-Guide-zh/blob/main/modules/3-Scanning-Networks.md)
+
 * ❌ **以下模組尚未進行翻譯(連結至原文)：**
-3. [模組 03 - 掃描網路 (Scanning Networks)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/3-Scanning-Networks.md)
+
 4. [模組 04 - 列舉 (Enumeration)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/3-Scanning-Networks.md)
 5. [模組 05 - 漏洞分析 (Vulnerability Analysis)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/5-Vulnerability-Analysis.md)
 6. [模組 06 - 系統駭客 (System Hacking)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/6-System-Hacking.md)
